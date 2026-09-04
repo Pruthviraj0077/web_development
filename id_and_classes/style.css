@@ -1,0 +1,14 @@
+#firstdiv{
+    background-color: red;
+    /*you can access id using #*/   
+}
+
+
+.red{
+    color: red;
+    /* you can access classes using .classname*/
+
+}
+.yellow{
+    background-color: yellow;
+}
